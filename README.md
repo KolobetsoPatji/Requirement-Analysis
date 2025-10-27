@@ -100,8 +100,17 @@ The requirement analysis phase involves several essential steps that ensure the 
 
   Below is an example of the use case diagram for the Booking Management System:
 
-  [Use case Diagram](alx-booking-uc.png)
+  <img width="10104" height="1488" alt="image" src="https://github.com/user-attachments/assets/d4c21d92-ec7b-4f67-b935-c8291b2584c6" />
 
+ ## Acceptance Criteria
 
+ Acceptance criteria are predefined conditions that a system feature must meet to be considered complete and acceptable to stakeholders. They ensure clarity by explaining exactly what success looks like for each requirement. Acceptance criteria also supports testing, helping teams verify that a delivery satisfies user needs.
+
+ ### Example: Checkout Feature (Booking Management System)
+
+ - Given a user has selected a room and provided valid payment information, when they confirm the booking, then the system processes the payment securely and records the booking.
+ - The user should receive a confirmation message on-screen and via email after a successful checkout.
+ - If the payment fails, the system must notify the user and not create a booking.
+ - The system must display the booking summary before final confirmation to allow users to make changes if needed.
 
   
