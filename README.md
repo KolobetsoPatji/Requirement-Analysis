@@ -76,9 +76,32 @@ The requirement analysis phase involves several essential steps that ensure the 
   These define the quality attributes and constraints of the system. They describe how well the system performs tasks rather than what it does.
 
   **Examples for the Booking Management System:**
-  -The system should handle up to 10,000 concurrent booking requests during peak times.
-  -Responses should load within 2 seconds under normal usage.
-  -All user data should be encrypted in transit and at rest.
-  -The system must be available 99,5 percent of the year with minimal downtime.
+  - The system should handle up to 10,000 concurrent booking requests during peak times.
+  - Responses should load within 2 seconds under normal usage.
+  - All user data should be encrypted in transit and at rest.
+  - The system must be available 99,5 percent of the year with minimal downtime.
+
+  ## Use Case Diagrams
+
+  A use diagram provides a visual representation of how users interact with a system. It highlights key user (actors) and the major functions ( use cases)
+
+  ### Actors
+  -Customer
+  -Service Provider
+  -Admin
+
+  ### Use Cases
+  - Register & Login
+  - Search for rooms
+  - Book a room
+  - Cancel booking
+  - Manage availability (Provider)
+  - Send notifications (System)
+
+  Below is an example of the use case diagram for the Booking Management System:
+
+  [Use case Diagram](alx-booking-uc.png)
+
+
 
   
