@@ -58,3 +58,27 @@ The requirement analysis phase involves several essential steps that ensure the 
 
 - **Requirement Validation**
   -Reviewing documented requirements with stakeholders to confirm accuracy, alignment with business goals, and that they address the identified problems effectively.
+
+  ## Types of Requirements
+
+  Software requirements are generally classified into two categories: **Functional Requirements** and **Non-Functional Requirements**.
+
+  ### Functional Requirements
+  These describe what the system should do. They define specific behaviors and functionalities that enable users to accomplish their goals.
+
+  **Examples for the Booking Management system:**
+  -Users can search available rooms based on location, check-in and check-out dates.
+  -Users can create bookings and receive confirmation notifications.
+  -Service providers can update room availability and pricing.
+  -The system stores booking details for future reference.
+
+  ### Non-Functional Requirements
+  These define the quality attributes and constraints of the system. They describe how well the system performs tasks rather than what it does.
+
+  **Examples for the Booking Management System:**
+  -The system should handle up to 10,000 concurrent booking requests during peak times.
+  -Responses should load within 2 seconds under normal usage.
+  -All user data should be encrypted in transit and at rest.
+  -The system must be available 99,5 percent of the year with minimal downtime.
+
+  
