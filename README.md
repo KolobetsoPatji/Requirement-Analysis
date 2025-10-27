@@ -39,3 +39,22 @@ Well-defined requirements enable better estimates for timelines, budget, workloa
 
 ### 3. Ensures Product Quality and User Satisfaction
 By defining detailed acceptance criteria and tracaeability, requirement analysis ensures that testing and validation activities confirm that the delivered software works as expected and satisfies user needs. This leads to higher-quality sstems and happier users.
+
+## Key Activities in Requirement Analysis
+
+The requirement analysis phase involves several essential steps that ensure the project is grounded in accurate and complete understanding of stakeholder needs. These activities include: 
+
+- **Requirement Gathering**
+  - Collecting initial information from stakeholders through surveys, interviews, meetings, and research to capture needs and expectations.
+
+- **Requirement Elicitation**
+  -Engaging with stakeholders to uncover hidden needs, clarify assumptions, and expand on the details of the requirements.
+
+- **Requirement Documentation**
+  - Converting gathered requirements into structured artifacts such as requirement specifications, user stories, and diagrams.
+
+- **Requirement Analysis and Modeling**
+  -Evaluating and breaking down requirements to ensure they are feasible, relevant, unambiguous, consistent, and complete. This includes modeling the system using tools like ERD and use case diagrams.
+
+- **Requirement Validation**
+  -Reviewing documented requirements with stakeholders to confirm accuracy, alignment with business goals, and that they address the identified problems effectively.
